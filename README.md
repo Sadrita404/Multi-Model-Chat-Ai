@@ -46,7 +46,7 @@ This application can connect to a wide variety of models through services like O
 
 1.  **Clone the repository:**
     ```bash
-   (https://github.com/Sadrita404/Multi-Model-Chat-Ai.git)
+    https://github.com/Sadrita404/Multi-Model-Chat-Ai.git
     ```
 
 2.  **Install dependencies:**
