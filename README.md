@@ -2,7 +2,7 @@
 
 A modern web application that allows you to chat with multiple large language models simultaneously and compare their responses in real-time.
 
-### Live At - ✨
+### Live At - https://multi-model-chat-ai-sadrita-hq4y68rt3.vercel.app
 
 ---
 
