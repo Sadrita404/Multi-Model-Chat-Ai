@@ -4,9 +4,16 @@ A modern web application that allows you to chat with multiple large language mo
 
 ### Live At - ✨
 
+---
+
 ## Screenshot
 
+<img width="1444" height="758" alt="Screenshot 2026-01-10 at 5 03 57 AM" src="https://github.com/user-attachments/assets/6ee960d6-3bde-4a47-97ab-0cf1777752cb" />
 
+---
+<img width="1445" height="753" alt="Screenshot 2026-01-10 at 5 04 13 AM" src="https://github.com/user-attachments/assets/efe176a3-91d4-465e-bc98-191452d59740" />
+
+---
 
 ## Features
 
@@ -108,6 +115,3 @@ Contributions are welcome! If you have a feature request, bug report, or want to
 5.  Push to the branch (`git push origin feature/your-feature-name`).
 6.  Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.# Multi-Model-Chat-Ai
