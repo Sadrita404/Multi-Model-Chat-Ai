@@ -46,7 +46,7 @@ This application can connect to a wide variety of models through services like O
 
 1.  **Clone the repository:**
     ```bash
-    https://github.com/Sadrita404/Multi-Model-Chat-Ai.git
+   (https://github.com/Sadrita404/Multi-Model-Chat-Ai.git)
     ```
 
 2.  **Install dependencies:**
@@ -110,4 +110,4 @@ Contributions are welcome! If you have a feature request, bug report, or want to
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.# Multi-Model-Chat-Ai
